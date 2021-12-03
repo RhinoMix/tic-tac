@@ -66,4 +66,10 @@
 #reset{
     background-color: #FF3860;
     color: aliceblue;
+    padding: 8px;
+    border-radius: 8px;
+    border: none;
+    font-size: 20px;
+    margin-left: 1em;
+    cursor: pointer;
 }
