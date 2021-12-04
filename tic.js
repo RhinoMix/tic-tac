@@ -121,6 +121,5 @@ window.addEventListener('DOMContentLoaded', () => {
         tile.addEventListener('click', () => userAction(tile, index));
     });
 
-
     resetButton.addEventListener('click', resetBoard);
 }); 
